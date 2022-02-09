@@ -20,7 +20,8 @@ retirement_title.csv, retiring_titles.csv, salaries.csv, titles.csv, unique_titl
 ![PyBer Summary DataFrame](https://github.com/juanjdeharo/Pewlett-Hackard-Analysis/blob/main/Retiring%20Employees%20by%20Title.PNG)
 > The results indicate that we want to start thinking about making the most replacements in the Senior Engineer and Senior Staff in general. This makes sense however as they have "Senior" in the title which indicates some experience. The next title with the most to-retire employees is the Engineers.
 
-### Employees eligible for mentorships: This can be viewed in the exported mentorship_eligibility file. There are a total of 1549 employees eligible for memberships.
+### Employees eligible for mentorships: 
+> This can be viewed in the exported mentorship_eligibility file. There are a total of 1549 employees eligible for memberships.
 
-### Other findings: It would seem that the amount of Engineers eligible for mentorships and the amount of Staff employees eligible for memberships are far lower than the amount of "Senior" employees that could retire in the near future. This means that a lot of outside resources would be needed unless Pewlett Hackard puts more programs in place to ready its current employees for mentorships.
-
+### Other findings: 
+> It would seem that the amount of Engineers eligible for mentorships and the amount of Staff employees eligible for memberships are far lower than the amount of "Senior" employees that could retire in the near future. This means that a lot of outside resources would be needed unless Pewlett Hackard puts more programs in place to ready its current employees for mentorships.
